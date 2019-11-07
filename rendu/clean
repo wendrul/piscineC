@@ -1,0 +1,1 @@
+find . \( -name "*.out" -o -name "*.swp" -o -name "*.o" \) -print -delete
